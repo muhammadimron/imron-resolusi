@@ -1,7 +1,6 @@
 RESOLUSI SAYA
 1. Conquer Front End
 2. Conquer Back End
-3. Become Fullstack
-4. Conquer Android Development
-5. Conquer Java
-6. Conquer Python
+3. Conquer Android Development
+4. Conquer Java
+5. Conquer Python
