@@ -4,11 +4,28 @@ CONQUERING PLAN
   - Belajar CSS
     ^ CSS Dasar
     ^ CSS Layouting
+      * CSS Flexbox
+      * CSS Grid
+    ^ CSS SASS (Preprocessing)
+    ^ CSS Frameworks
+      * Bootstrap
+      * Materialize
   - Belajar Javascript
     ^ Javascript Dasar
     ^ DOM
+    ^ Javascript Lanjutan
+      * JQuery
+      * Ajax
+    ^ Javascript Frameworks
+      * React
 2. Back End
   - Belajar PHP
     ^ PHP Dasar
     ^ PHP OOP
+    ^ PHP MVSC
+    ^ PHP Frameworks
+      * Laravel
+  - Belajar Database
+    ^ MySQL
+    ^ MongoDB
   - Belajar Rest API
