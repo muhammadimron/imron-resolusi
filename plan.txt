@@ -6,6 +6,7 @@ CONQUERING PLAN
     ^ CSS Layouting
       * CSS Flexbox
       * CSS Grid
+    ^ CSS 3
     ^ CSS SASS (Preprocessing)
     ^ CSS Frameworks
       * Bootstrap
@@ -16,8 +17,10 @@ CONQUERING PLAN
     ^ Javascript Lanjutan
       * JQuery
       * Ajax
-    ^ Javascript Frameworks
+    ^ Javascript Framework
+      * Angular
       * React
+      * Vue
 2. Back End
   - Belajar PHP
     ^ PHP Dasar
