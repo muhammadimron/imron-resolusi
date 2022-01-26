@@ -4,9 +4,18 @@ CONQUERING PLAN
   - Belajar CSS
     ^ CSS Dasar
     ^ CSS Layouting
+      * CSS Flexbox
+    ^ CSS 3
+    ^ CSS Framework
+      * Bootstrap
   - Belajar Javascript
     ^ Javascript Dasar
     ^ DOM
+    ^ Javascript Lanjutan
+    ^ Javascript Framework
+      * Angular
+      * React
+      * Vue
 2. Back End
   - Belajar PHP
     ^ PHP Dasar
