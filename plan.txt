@@ -1,0 +1,14 @@
+CONQUERING PLAN
+1. Front end
+  - Belajar HTML
+  - Belajar CSS
+    ^ CSS Dasar
+    ^ CSS Layouting
+  - Belajar Javascript
+    ^ Javascript Dasar
+    ^ DOM
+2. Back End
+  - Belajar PHP
+    ^ PHP Dasar
+    ^ PHP OOP
+  - Belajar Rest API
